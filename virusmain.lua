@@ -1,1 +1,1 @@
-print ""
+print "No boot device"
